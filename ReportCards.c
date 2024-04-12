@@ -1,5 +1,5 @@
 /******************************************************************************
-Final Assessment – Report Cards
+Final Assessment - Report Cards
 Alexandre Paquette
 Date: December 10, 2020
 Class: CIS-142
