@@ -5,4 +5,4 @@ Alex Paquette
 December 20th, 2020
 
 ### Description
-This is the final project for my Programmig Fundamentals course at Canadore college.
+This is the final project for my Programming Fundamentals course at Canadore College.
